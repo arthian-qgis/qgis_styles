@@ -6,6 +6,6 @@ In Flood Modeller:
 - Right click the network in the top-left pane → Export → Nodes as Shapefile
 - Right click again → Export → Links as Shapefile
 - Load the shapefiles into QGIS
-- Apply the QML styles (link in comments)
+- Apply the QML styles
 
 This is just a glimpse of how we streamline modelling and GIS processes at Arthian. If you’d like expert support with your flood risk or hydraulic modelling projects, get in touch with me or my colleague Josh Rigby to discuss how we can help.

@@ -8,4 +8,4 @@ In Flood Modeller:
 - Load the shapefiles into QGIS
 - Apply the QML styles
 
-This is just a glimpse of how we streamline modelling and GIS processes at Arthian. If you’d like expert support with your flood risk or hydraulic modelling projects, get in touch with me or my colleague Josh Rigby to discuss how we can help.
+This is just a glimpse of how we streamline modelling and GIS processes at Arthian. If you’d like expert support with your flood risk or hydraulic modelling projects, get in touch with me (david.hughes@arthian.com) or my colleague Josh Rigby (josh.rigby@arthian.com) to discuss how we can help.
